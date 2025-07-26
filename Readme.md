@@ -1,6 +1,9 @@
 # AI Prompts for Generating Illustrations of Pizza Styles
 
-[![Neapolitan Pizza](assets/neapolitan-thumb.png)](neapolitan/neapolitan-gpt-40-v1.0.0.png)
+[![A square lithograph-style illustration of a slice of Neapolitan pizza with
+tomato, mozzarella, and basil.]
+(assets/neapolitan-thumb.png)]
+(neapolitan/neapolitan-gpt-40-v1.0.0.png)
 
 ## Introduction
 
