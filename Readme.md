@@ -1,5 +1,7 @@
 # AI Prompts for Generating Illustrations of Pizza Styles
 
+[![Neapolitan Pizza](assets/neapolitan-thumb.png)](neapolitan/neapolitan-gpt-40-v1.0.0.png)
+
 ## Introduction
 
 This project documents AI prompts for generating illustrations of regional
