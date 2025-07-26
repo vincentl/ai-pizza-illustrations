@@ -1,4 +1,4 @@
-# AI Prompts for Generating Illustrations of Regional Pizza Styles
+# AI Prompts for Generating Illustrations of Pizza Styles
 
 ## Introduction
 
